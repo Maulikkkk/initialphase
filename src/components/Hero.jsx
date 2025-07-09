@@ -1,4 +1,4 @@
-// components/Hero.jsx
+
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import JoinWaitlistModal from "./JoinWaitlistModal";
