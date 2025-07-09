@@ -1,4 +1,4 @@
-// App.jsx
+
 import React, { useState } from "react";
 import IntroSplash from "./components/IntroSplash";
 import Navbar from "./components/Navbar";
